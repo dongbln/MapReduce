@@ -3,9 +3,9 @@ I will show you how can we write Map Reduce job in Java
 
 ## word count
 The following code show how we implment the Map Reduce job in Java:
-What we need are three main things:
-1) The driver program e.g., the main method
-2) The mapper class, which extends from the org.apache.hadoop.mapreduce.Mapper interface
+What we need are three main things:<br>
+1) The driver program e.g., the main method <br>
+2) The mapper class, which extends from the org.apache.hadoop.mapreduce.Mapper interface <br>
 3) And, the reduce class 
 
 ```Java
