@@ -75,8 +75,8 @@ public class WordCount {
 
 
 # Yarn command line
-View yarn applications
-```yarn application -list```
-```yarn application -list -appStates ALL```
-```yarn application -list -appStates KILLED```
-```yarn application -status  <APPLICATION_ID>```
+View yarn applications <br>
+```yarn application -list``` <br>
+```yarn application -list -appStates ALL``` <br>
+```yarn application -list -appStates KILLED``` <br>
+```yarn application -status  <APPLICATION_ID>``` <br>
