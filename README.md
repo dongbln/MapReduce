@@ -80,6 +80,7 @@ View yarn applications <br>
 ```yarn application -list -appStates ALL``` <br>
 ```yarn application -list -appStates KILLED``` <br>
 ```yarn application -status  <APPLICATION_ID>``` <br>
+e.g., ```yarn application -status  application_1243434300444_002``` <br>
 
 View Yarn application logs:<br>
 ```yarn alogs -applicationId  <APPLICATION_ID>``` <br>
