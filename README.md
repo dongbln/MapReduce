@@ -73,3 +73,10 @@ public class WordCount {
 ```
 
 
+
+# Yarn command line
+View yarn applications
+```yarn application -list```
+```yarn application -list -appStates ALL```
+```yarn application -list -appStates KILLED```
+```yarn application -status  <APPLICATION_ID>```
