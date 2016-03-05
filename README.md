@@ -80,3 +80,9 @@ View yarn applications <br>
 ```yarn application -list -appStates ALL``` <br>
 ```yarn application -list -appStates KILLED``` <br>
 ```yarn application -status  <APPLICATION_ID>``` <br>
+
+View Yarn application logs:<br>
+```yarn alogs -applicationId  <APPLICATION_ID>``` <br>
+
+Kill a Yarn application :<br>
+```yarn application -kill <APPLICATION_ID>``` <br>
